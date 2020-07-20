@@ -15,3 +15,5 @@ end
 
 pug = Dog.new("Mutt")
 pug.breed
+
+puts pug.breed
