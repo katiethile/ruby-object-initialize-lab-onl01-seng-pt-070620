@@ -12,8 +12,3 @@ class Dog
     @breed
   end 
 end 
-
-pug = Dog.new("Mutt")
-pug.breed
-
-puts pug.breed
